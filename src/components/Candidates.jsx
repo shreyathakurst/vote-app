@@ -57,7 +57,7 @@ const Candidates = () => {
     
   return (
     <Container>
-    <ButtonPost >POST YOUR DESIGNS</ButtonPost>
+    {/* <ButtonPost >POST YOUR DESIGNS</ButtonPost> */}
     <Wrapper>
             <CanDetails>
                <ProfileImage src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yi8lUjKNVqmWkbY2plqdttxFpzC2Efcq0g&s" />
